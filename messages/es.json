@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "title": "LAUX Reformas | Reformas integrales en Salvatierra de Miño y alrededores",
+    "description": "Empresa de reformas en Salvatierra de Miño (Pontevedra): reformas integrales, baños, cocinas, pladur, pintura, tejados y fachadas. Pide tu presupuesto sin compromiso.",
+    "locale": "es_ES"
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "about": "Sobre nosotros",
+    "zones": "Zonas",
+    "contact": "Contacto",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "language": "Idioma",
+    "skip": "Saltar al contenido"
+  },
+  "common": {
+    "requestQuote": "Pide tu presupuesto",
+    "requestQuoteShort": "Pedir presupuesto",
+    "whatsapp": "WhatsApp",
+    "writeWhatsapp": "Escríbenos por WhatsApp",
+    "whatsappMessage": "Hola, me gustaría pedir un presupuesto para una reforma.",
+    "learnMore": "Saber más",
+    "backHome": "Volver al inicio",
+    "callUs": "Llámanos"
+  },
+  "hero": {
+    "eyebrow": "LAUX Reformas",
+    "title": "Reformas que mejoran tu vida",
+    "subtitle": "Nos encargamos de todo el proceso para que tú solo disfrutes del resultado.",
+    "badges": {
+      "commitment": "Seriedad y compromiso",
+      "materials": "Materiales de calidad",
+      "professionals": "Profesionales cualificados"
+    }
+  },
+  "services": {
+    "eyebrow": "Servicios",
+    "title": "Soluciones integrales para cada espacio",
+    "includesTitle": "Qué incluye",
+    "otherServices": "Otros servicios",
+    "ctaTitle": "¿Hablamos de tu proyecto?",
+    "ctaText": "Cuéntanos qué necesitas y te preparamos un presupuesto detallado y sin compromiso.",
+    "items": {
+      "reformas-integrales": {
+        "name": "Reformas integrales",
+        "short": "Nos ocupamos de todo tu proyecto, desde el diseño hasta la entrega final.",
+        "metaDescription": "Reformas integrales de viviendas y locales en Salvatierra de Miño, Ponteareas, Tui y alrededores. Un único interlocutor de principio a fin.",
+        "intro": "Transformamos tu vivienda o local de arriba abajo con un único interlocutor que coordina todos los oficios.",
+        "body": [
+          "Una reforma integral es la mejor oportunidad para adaptar tu casa a tu forma de vivir: redistribuir espacios, ganar luz, mejorar el aislamiento y renovar todas las instalaciones.",
+          "Te acompañamos desde la primera visita: tomamos medidas, te asesoramos sobre materiales y acabados, te entregamos un presupuesto cerrado y planificamos la obra para cumplir plazos sin sorpresas."
+        ],
+        "includes": [
+          "Visita técnica y asesoramiento",
+          "Diseño y redistribución de espacios",
+          "Demoliciones y gestión de residuos",
+          "Fontanería, electricidad y climatización",
+          "Albañilería, solados y alicatados",
+          "Carpintería, pintura y limpieza final"
+        ]
+      },
+      "banos": {
+        "name": "Baños",
+        "short": "Diseñamos y reformamos baños modernos, funcionales y elegantes.",
+        "metaDescription": "Reforma de baños en Salvatierra de Miño y alrededores: cambio de bañera por plato de ducha, alicatados, mamparas y muebles a medida.",
+        "intro": "Renovamos tu baño en pocos días con soluciones prácticas, fáciles de limpiar y pensadas para durar.",
+        "body": [
+          "Desde un cambio de bañera por plato de ducha hasta la reforma completa del baño, cuidamos cada detalle: impermeabilización, pendientes, iluminación y ventilación.",
+          "Te ayudamos a elegir revestimientos, sanitarios, griferías y muebles para conseguir un baño cómodo y con el estilo que buscas."
+        ],
+        "includes": [
+          "Cambio de bañera por plato de ducha",
+          "Alicatados y suelos porcelánicos",
+          "Sanitarios, griferías y mamparas",
+          "Muebles de baño a medida",
+          "Instalación de fontanería y desagües",
+          "Iluminación y ventilación"
+        ]
+      },
+      "cocinas": {
+        "name": "Cocinas",
+        "short": "Cocinas a medida con acabados de calidad y máxima funcionalidad.",
+        "metaDescription": "Reforma de cocinas a medida en Salvatierra de Miño, Ponteareas, Tui y Vigo: mobiliario, encimeras, electrodomésticos e instalaciones.",
+        "intro": "Diseñamos cocinas a tu medida, aprovechando cada centímetro para que cocinar sea un placer.",
+        "body": [
+          "Estudiamos cómo usas tu cocina para proponerte la mejor distribución: en línea, en L, en U o con isla. Combinamos funcionalidad y estética con materiales resistentes.",
+          "Nos encargamos de toda la obra: instalaciones, revestimientos, montaje de muebles, encimeras y electrodomésticos, para que la estrenes sin preocupaciones."
+        ],
+        "includes": [
+          "Diseño y distribución a medida",
+          "Mobiliario y encimeras",
+          "Instalación de electrodomésticos",
+          "Fontanería, electricidad y extracción",
+          "Revestimientos y suelos",
+          "Iluminación funcional y decorativa"
+        ]
+      },
+      "pladur": {
+        "name": "Pladur",
+        "short": "Tabiques, techos, aislamientos y soluciones en placa de yeso.",
+        "metaDescription": "Trabajos de pladur en Salvatierra de Miño y alrededores: tabiques, falsos techos, trasdosados, aislamiento térmico y acústico.",
+        "intro": "Soluciones en placa de yeso laminado: rápidas, limpias y con excelentes prestaciones de aislamiento.",
+        "body": [
+          "El pladur permite redistribuir espacios, crear falsos techos con iluminación integrada o mejorar el aislamiento térmico y acústico de tu vivienda sin obras pesadas.",
+          "Trabajamos con sistemas certificados y acabados perfectos, listos para pintar."
+        ],
+        "includes": [
+          "Tabiques y divisiones",
+          "Falsos techos y foseados",
+          "Trasdosados y aislamiento",
+          "Aislamiento acústico",
+          "Muebles y hornacinas de pladur",
+          "Placas especiales para zonas húmedas"
+        ]
+      },
+      "pintura": {
+        "name": "Pintura",
+        "short": "Pintura interior y exterior con acabados impecables y duraderos.",
+        "metaDescription": "Pintores en Salvatierra de Miño, Ponteareas y Tui: pintura interior y exterior, alisado de paredes y tratamientos antihumedad.",
+        "intro": "Renovamos paredes, techos y fachadas con una preparación cuidadosa y pinturas de primera calidad.",
+        "body": [
+          "Un buen acabado empieza por una buena preparación: protegemos muebles y suelos, reparamos grietas y alisamos superficies antes de pintar.",
+          "Te asesoramos sobre colores y tipos de pintura según cada estancia y dejamos todo limpio al terminar."
+        ],
+        "includes": [
+          "Pintura interior de viviendas y locales",
+          "Pintura de fachadas",
+          "Alisado y eliminación de gotelé",
+          "Reparación de grietas y desconchones",
+          "Tratamientos antihumedad y antimoho",
+          "Lacado de puertas y carpintería"
+        ]
+      },
+      "tejados-y-fachadas": {
+        "name": "Tejados y fachadas",
+        "short": "Reparación y mantenimiento de tejados y fachadas con garantía.",
+        "metaDescription": "Reparación de tejados y fachadas en Salvatierra de Miño y alrededores: goteras, impermeabilización, retejado y rehabilitación de fachadas.",
+        "intro": "Protegemos tu vivienda frente a la lluvia y la humedad, algo imprescindible en el clima de Galicia.",
+        "body": [
+          "Revisamos y reparamos tejados, solucionamos goteras, sustituimos tejas y canalones e impermeabilizamos cubiertas y terrazas.",
+          "En fachadas, reparamos fisuras, aplicamos revestimientos e impermeabilizantes y mejoramos el aislamiento para ganar confort y ahorrar energía."
+        ],
+        "includes": [
+          "Reparación de goteras",
+          "Retejado y sustitución de tejas",
+          "Canalones y bajantes",
+          "Impermeabilización de cubiertas y terrazas",
+          "Rehabilitación de fachadas",
+          "Aislamiento térmico exterior (SATE)"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "Proyectos",
+    "title": "Trabajos realizados",
+    "viewAll": "Ver todos los proyectos",
+    "pageTitle": "Nuestros proyectos",
+    "pageIntro": "Una selección de reformas que hemos realizado en Salvatierra de Miño y alrededores.",
+    "metaDescription": "Galería de reformas realizadas por LAUX Reformas: cocinas, baños, reformas integrales, pintura, pladur, tejados y fachadas.",
+    "filterAll": "Todos",
+    "close": "Cerrar",
+    "previous": "Anterior",
+    "next": "Siguiente"
+  },
+  "about": {
+    "eyebrow": "Sobre nosotros",
+    "title": "Más de {years} años transformando espacios",
+    "text": "En LAUX Reformas nos apasiona nuestro trabajo. Ofrecemos un servicio cercano, profesional y transparente, cuidando cada detalle desde el primer contacto hasta la finalización de la obra.",
+    "imageAlt": "Planos y herramientas de trabajo sobre una mesa",
+    "stats": {
+      "years": "Años de experiencia",
+      "projects": "Proyectos realizados",
+      "satisfaction": "Clientes satisfechos"
+    }
+  },
+  "testimonials": {
+    "title": "Lo que opinan nuestros clientes",
+    "rating": "5 de 5 estrellas",
+    "items": [
+      { "text": "Muy profesionales y cumplidores. El resultado ha sido incluso mejor de lo que esperábamos.", "name": "Ana G." },
+      { "text": "Reformaron nuestra cocina y baño y no podemos estar más contentos. Recomendables 100%.", "name": "Javier M." },
+      { "text": "Trato cercano, buenas ideas y seriedad en todo momento. Volveríamos a contar con ellos.", "name": "Laura R." }
+    ]
+  },
+  "cta": {
+    "eyebrow": "¿Tienes un proyecto?",
+    "title": "Hablemos de tu reforma",
+    "text": "Cuéntanos tu idea y te enviaremos un presupuesto sin compromiso.",
+    "area": "Salvatierra de Miño y alrededores"
+  },
+  "zones": {
+    "eyebrow": "Zonas",
+    "title": "Dónde trabajamos",
+    "intro": "Tenemos nuestra base en Salvatierra de Miño y realizamos reformas en toda la comarca del Condado, el Baixo Miño y el área de Vigo.",
+    "metaDescription": "Zonas de trabajo de LAUX Reformas: Salvatierra de Miño, Ponteareas, Tui, O Porriño, Vigo y alrededores.",
+    "listTitle": "Municipios",
+    "notListed": "¿No ves tu municipio? Consúltanos sin compromiso: es muy probable que también lleguemos.",
+    "mapTitle": "Mapa de la zona de trabajo",
+    "mapNotice": "El mapa se carga desde OpenStreetMap. Al pulsar, tu navegador se conectará a sus servidores.",
+    "mapLoad": "Cargar mapa"
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Pide tu presupuesto",
+    "intro": "Rellena el formulario y te responderemos lo antes posible. También puedes llamarnos o escribirnos por WhatsApp.",
+    "metaDescription": "Pide presupuesto sin compromiso a LAUX Reformas. Teléfono, WhatsApp, email y formulario de contacto.",
+    "infoTitle": "Datos de contacto",
+    "form": {
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "email": "Email",
+      "service": "Tipo de reforma",
+      "servicePlaceholder": "Selecciona una opción",
+      "serviceOther": "Otro",
+      "town": "Municipio",
+      "message": "Cuéntanos tu proyecto",
+      "privacy": "He leído y acepto la <link>política de privacidad</link>.",
+      "submit": "Enviar solicitud",
+      "sending": "Enviando…",
+      "success": "¡Gracias! Hemos recibido tu solicitud y te contactaremos muy pronto.",
+      "error": "No hemos podido enviar tu solicitud. Inténtalo de nuevo o llámanos.",
+      "required": "Campo obligatorio",
+      "invalidEmail": "Introduce un email válido",
+      "invalidPhone": "Introduce un teléfono válido",
+      "privacyRequired": "Debes aceptar la política de privacidad",
+      "legalNotice": "Responsable: {owner}. Finalidad: responder a tu solicitud de presupuesto. Puedes ejercer tus derechos de acceso, rectificación y supresión, entre otros, como se indica en la política de privacidad."
+    }
+  },
+  "footer": {
+    "tagline": "Construimos espacios, creamos hogares",
+    "rights": "Todos los derechos reservados.",
+    "legalNotice": "Aviso legal",
+    "privacy": "Política de privacidad",
+    "photoCredits": "Fotografías provisionales: Unsplash"
+  },
+  "legal": {
+    "updated": "Última actualización: {date}",
+    "notice": {
+      "title": "Aviso legal",
+      "sections": [
+        {
+          "h": "Datos identificativos",
+          "p": [
+            "En cumplimiento de la Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico (LSSI-CE), se informa de que este sitio web es titularidad de {owner}, con NIF {taxId} y domicilio en {address}. {registry}. Email de contacto: {email}. Teléfono: {phone}."
+          ]
+        },
+        {
+          "h": "Objeto y condiciones de uso",
+          "p": [
+            "Este sitio web tiene como finalidad informar sobre los servicios de reformas que ofrece el titular y facilitar el contacto con los interesados. El acceso es gratuito e implica la aceptación de este aviso legal.",
+            "El usuario se compromete a hacer un uso adecuado de los contenidos y a no emplearlos para actividades ilícitas o contrarias a la buena fe."
+          ]
+        },
+        {
+          "h": "Propiedad intelectual e industrial",
+          "p": [
+            "Los textos, logotipos, diseño y demás contenidos de este sitio web son propiedad del titular o de terceros que han autorizado su uso. Queda prohibida su reproducción, distribución o transformación sin autorización expresa."
+          ]
+        },
+        {
+          "h": "Responsabilidad",
+          "p": [
+            "El titular no se hace responsable de los daños derivados del uso de la web ni de posibles errores en sus contenidos, y se reserva el derecho a modificarlos sin previo aviso. Los enlaces a sitios de terceros se ofrecen a título informativo."
+          ]
+        },
+        {
+          "h": "Cookies",
+          "p": [
+            "Este sitio web solo utiliza cookies técnicas imprescindibles para su funcionamiento (por ejemplo, para recordar el idioma elegido), que están exentas del deber de consentimiento. No se utilizan cookies de análisis ni publicitarias."
+          ]
+        },
+        {
+          "h": "Legislación aplicable",
+          "p": [
+            "Este aviso legal se rige por la legislación española. Para cualquier controversia, las partes se someterán a los juzgados y tribunales que correspondan conforme a la normativa vigente."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Política de privacidad",
+      "sections": [
+        {
+          "h": "Responsable del tratamiento",
+          "p": [
+            "{owner}, con NIF {taxId} y domicilio en {address}. Email: {email}. Teléfono: {phone}."
+          ]
+        },
+        {
+          "h": "Qué datos tratamos y con qué finalidad",
+          "p": [
+            "Tratamos los datos que nos facilitas a través del formulario de contacto, por teléfono, email o WhatsApp (nombre, teléfono, email, municipio y descripción del proyecto) con la única finalidad de atender tu solicitud y elaborar el presupuesto solicitado."
+          ]
+        },
+        {
+          "h": "Legitimación",
+          "p": [
+            "La base legal es tu consentimiento, que otorgas al enviar el formulario (art. 6.1.a RGPD), y, en su caso, la aplicación de medidas precontractuales a petición tuya (art. 6.1.b RGPD)."
+          ]
+        },
+        {
+          "h": "Conservación",
+          "p": [
+            "Conservaremos tus datos mientras sea necesario para atender tu solicitud y, posteriormente, durante los plazos legalmente exigibles. Si no llegas a contratar, se suprimirán en un plazo máximo de un año."
+          ]
+        },
+        {
+          "h": "Destinatarios",
+          "p": [
+            "No cedemos tus datos a terceros salvo obligación legal. Para prestar el servicio contamos con proveedores que actúan como encargados del tratamiento: alojamiento web (Vercel Inc.) y envío de emails (Resend). Estos proveedores pueden tratar datos fuera del Espacio Económico Europeo, con las garantías adecuadas previstas en el RGPD (Marco de Privacidad de Datos UE-EE. UU. o cláusulas contractuales tipo)."
+          ]
+        },
+        {
+          "h": "Tus derechos",
+          "p": [
+            "Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad, así como retirar tu consentimiento en cualquier momento, escribiendo a {email} e indicando el derecho que deseas ejercer.",
+            "Si consideras que no hemos tratado tus datos correctamente, puedes presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es)."
+          ]
+        }
+      ]
+    }
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "text": "La página que buscas no existe o se ha movido."
+  }
+}
