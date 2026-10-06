@@ -50,7 +50,7 @@ export default function Header() {
             className="inline-flex items-center gap-2 bg-gold px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gold-600"
           >
             <WhatsappIcon className="size-5" />
-            {site.phone}
+            {site.whatsappDisplay}
           </a>
         </div>
 
@@ -91,7 +91,7 @@ export default function Header() {
                 className="inline-flex items-center gap-2 bg-gold px-4 py-2.5 text-sm font-semibold text-white"
               >
                 <WhatsappIcon className="size-5" />
-                {site.phone}
+                {site.whatsappDisplay}
               </a>
             </div>
           </nav>

@@ -8,7 +8,8 @@ export const site = {
 
   phone: "644 123 456",
   phoneHref: "tel:+34644123456",
-  whatsapp: "34644123456",
+  whatsapp: "34698928675",
+  whatsappDisplay: "698 92 86 75",
   email: "info@lauxreformas.es",
   town: "Salvaterra de Miño",
   province: "Pontevedra",
