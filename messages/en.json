@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "title": "LAUX Reformas | Complete home renovations in Salvaterra de Miño and the surrounding area",
+    "description": "Renovation company in Salvaterra de Miño (Pontevedra): complete renovations, bathrooms, kitchens, drywall/plasterboard, painting, roofs and façades. Request your no-obligation quote.",
+    "locale": "en_GB"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About us",
+    "zones": "Areas",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "skip": "Skip to content"
+  },
+  "common": {
+    "requestQuote": "Request your quote",
+    "requestQuoteShort": "Request a quote",
+    "whatsapp": "WhatsApp",
+    "writeWhatsapp": "Message us on WhatsApp",
+    "whatsappMessage": "Hello, I would like to request a quote for a renovation.",
+    "learnMore": "Learn more",
+    "backHome": "Back to home",
+    "callUs": "Call us"
+  },
+  "hero": {
+    "eyebrow": "LAUX Reformas",
+    "title": "Renovations that improve your life",
+    "subtitle": "We take care of the whole process so all you have to do is enjoy the result.",
+    "badges": {
+      "commitment": "Reliability and commitment",
+      "materials": "Quality materials",
+      "professionals": "Qualified professionals"
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Complete solutions for every space",
+    "includesTitle": "What's included",
+    "otherServices": "Other services",
+    "ctaTitle": "Shall we talk about your project?",
+    "ctaText": "Tell us what you need and we will prepare a detailed, no-obligation quote.",
+    "items": {
+      "reformas-integrales": {
+        "name": "Complete renovations",
+        "short": "We handle your entire project, from design to final handover.",
+        "metaDescription": "Complete renovations of homes and commercial premises in Salvaterra de Miño, Ponteareas, Tui and the surrounding area. A single point of contact from start to finish.",
+        "intro": "We transform your home or premises from top to bottom, with a single point of contact who coordinates all the trades.",
+        "body": [
+          "A complete renovation is the best opportunity to adapt your home to the way you live: redistribute spaces, gain light, improve insulation and renew all the installations.",
+          "We are with you from the very first visit: we take measurements, advise you on materials and finishes, give you a fixed-price quote and plan the work to meet deadlines with no surprises."
+        ],
+        "includes": [
+          "Technical visit and advice",
+          "Design and redistribution of spaces",
+          "Demolition and waste management",
+          "Plumbing, electrics and climate control",
+          "Masonry, flooring and tiling",
+          "Carpentry, painting and final clean"
+        ]
+      },
+      "banos": {
+        "name": "Bathrooms",
+        "short": "We design and renovate modern, functional and elegant bathrooms.",
+        "metaDescription": "Bathroom renovations in Salvaterra de Miño and the surrounding area: bathtub-to-shower conversions, tiling, shower screens and made-to-measure furniture.",
+        "intro": "We renovate your bathroom in just a few days with practical, easy-to-clean solutions built to last.",
+        "body": [
+          "From replacing a bathtub with a shower tray to a complete bathroom renovation, we take care of every detail: waterproofing, falls, lighting and ventilation.",
+          "We help you choose wall and floor coverings, sanitaryware, taps and furniture to create a comfortable bathroom in the style you are looking for."
+        ],
+        "includes": [
+          "Bathtub-to-shower-tray conversion",
+          "Tiling and porcelain floors",
+          "Sanitaryware, taps and shower screens",
+          "Made-to-measure bathroom furniture",
+          "Plumbing and drainage installation",
+          "Lighting and ventilation"
+        ]
+      },
+      "cocinas": {
+        "name": "Kitchens",
+        "short": "Made-to-measure kitchens with quality finishes and maximum functionality.",
+        "metaDescription": "Made-to-measure kitchen renovations in Salvaterra de Miño, Ponteareas, Tui and Vigo: units, worktops, appliances and installations.",
+        "intro": "We design kitchens tailored to you, making the most of every centimetre so that cooking is a pleasure.",
+        "body": [
+          "We look at how you use your kitchen to propose the best layout: galley, L-shaped, U-shaped or with an island. We combine functionality and aesthetics with hard-wearing materials.",
+          "We take care of all the work: installations, wall and floor coverings, fitting of units, worktops and appliances, so you can start using it with no worries."
+        ],
+        "includes": [
+          "Made-to-measure design and layout",
+          "Units and worktops",
+          "Appliance installation",
+          "Plumbing, electrics and extraction",
+          "Wall and floor coverings",
+          "Functional and decorative lighting"
+        ]
+      },
+      "pladur": {
+        "name": "Drywall (Pladur)",
+        "short": "Partition walls, ceilings, insulation and plasterboard solutions.",
+        "metaDescription": "Drywall/plasterboard work in Salvaterra de Miño and the surrounding area: partition walls, suspended ceilings, wall linings, thermal and acoustic insulation.",
+        "intro": "Laminated plasterboard solutions: quick, clean and with excellent insulation performance.",
+        "body": [
+          "Drywall/plasterboard lets you redistribute spaces, create suspended ceilings with integrated lighting or improve the thermal and acoustic insulation of your home without heavy building work.",
+          "We work with certified systems and flawless finishes, ready to paint."
+        ],
+        "includes": [
+          "Partition walls and dividers",
+          "Suspended ceilings and recessed lighting coves",
+          "Wall linings and insulation",
+          "Acoustic insulation",
+          "Drywall/plasterboard units and niches",
+          "Special boards for damp areas"
+        ]
+      },
+      "pintura": {
+        "name": "Painting",
+        "short": "Interior and exterior painting with flawless, long-lasting finishes.",
+        "metaDescription": "Painters in Salvaterra de Miño, Ponteareas and Tui: interior and exterior painting, wall smoothing and anti-damp treatments.",
+        "intro": "We refresh walls, ceilings and façades with careful preparation and top-quality paints.",
+        "body": [
+          "A good finish starts with good preparation: we protect furniture and floors, repair cracks and smooth surfaces before painting.",
+          "We advise you on colours and types of paint for each room and leave everything clean when we finish."
+        ],
+        "includes": [
+          "Interior painting of homes and commercial premises",
+          "Façade painting",
+          "Wall smoothing and removal of textured (gotelé) finishes",
+          "Repair of cracks and flaking",
+          "Anti-damp and anti-mould treatments",
+          "Lacquering of doors and woodwork"
+        ]
+      },
+      "tejados-y-fachadas": {
+        "name": "Roofs and façades",
+        "short": "Roof and façade repair and maintenance, with a guarantee.",
+        "metaDescription": "Roof and façade repairs in Salvaterra de Miño and the surrounding area: leaks, waterproofing, re-roofing and façade refurbishment.",
+        "intro": "We protect your home against rain and damp, something essential in the Galician climate.",
+        "body": [
+          "We inspect and repair roofs, fix leaks, replace tiles and gutters, and waterproof roofs and terraces.",
+          "On façades, we repair cracks, apply coatings and waterproofing, and improve insulation to increase comfort and save energy."
+        ],
+        "includes": [
+          "Leak repairs",
+          "Re-roofing and tile replacement",
+          "Gutters and downpipes",
+          "Waterproofing of roofs and terraces",
+          "Façade refurbishment",
+          "External thermal insulation (ETICS)"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Completed work",
+    "viewAll": "View all projects",
+    "pageTitle": "Our projects",
+    "pageIntro": "A selection of renovations we have carried out in Salvaterra de Miño and the surrounding area.",
+    "metaDescription": "Gallery of renovations completed by LAUX Reformas: kitchens, bathrooms, complete renovations, painting, drywall/plasterboard, roofs and façades.",
+    "filterAll": "All",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "Over {years} years transforming spaces",
+    "text": "At LAUX Reformas we are passionate about our work. We offer a friendly, professional and transparent service, taking care of every detail from the first contact until the work is completed.",
+    "imageAlt": "Plans and work tools on a table",
+    "stats": {
+      "years": "Years of experience",
+      "projects": "Projects completed",
+      "satisfaction": "Satisfied clients"
+    }
+  },
+  "testimonials": {
+    "title": "What our clients say",
+    "rating": "5 out of 5 stars",
+    "items": [
+      { "text": "Very professional and reliable. The result was even better than we expected.", "name": "Ana G." },
+      { "text": "They renovated our kitchen and bathroom and we couldn't be happier. 100% recommended.", "name": "Javier M." },
+      { "text": "Friendly service, good ideas and reliability at all times. We would work with them again.", "name": "Laura R." }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Have a project in mind?",
+    "title": "Let's talk about your renovation",
+    "text": "Tell us your idea and we will send you a no-obligation quote.",
+    "area": "Salvaterra de Miño and the surrounding area"
+  },
+  "zones": {
+    "eyebrow": "Areas",
+    "title": "Where we work",
+    "intro": "We are based in Salvaterra de Miño and carry out renovations throughout the O Condado district, Baixo Miño and the Vigo area.",
+    "metaDescription": "LAUX Reformas service areas: Salvaterra de Miño, Ponteareas, Tui, O Porriño, Vigo and the surrounding area.",
+    "listTitle": "Municipalities",
+    "notListed": "Don't see your municipality? Ask us with no obligation: we very probably cover it too.",
+    "mapTitle": "Map of our service area",
+    "mapNotice": "The map is loaded from OpenStreetMap. When you click, your browser will connect to its servers.",
+    "mapLoad": "Load map"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Request your quote",
+    "intro": "Fill in the form and we will get back to you as soon as possible. You can also call us or message us on WhatsApp.",
+    "metaDescription": "Request a no-obligation quote from LAUX Reformas. Phone, WhatsApp, email and contact form.",
+    "infoTitle": "Contact details",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "service": "Type of renovation",
+      "servicePlaceholder": "Select an option",
+      "serviceOther": "Other",
+      "town": "Municipality",
+      "message": "Tell us about your project",
+      "privacy": "I have read and accept the <link>privacy policy</link>.",
+      "submit": "Send request",
+      "sending": "Sending…",
+      "success": "Thank you! We have received your request and will contact you very soon.",
+      "error": "We were unable to send your request. Please try again or call us.",
+      "required": "Required field",
+      "invalidEmail": "Please enter a valid email address",
+      "invalidPhone": "Please enter a valid phone number",
+      "privacyRequired": "You must accept the privacy policy",
+      "legalNotice": "Data controller: {owner}. Purpose: to respond to your quote request. You can exercise your rights of access, rectification and erasure, among others, as set out in the privacy policy."
+    }
+  },
+  "footer": {
+    "tagline": "We build spaces, we create homes",
+    "rights": "All rights reserved.",
+    "legalNotice": "Legal notice",
+    "privacy": "Privacy policy",
+    "photoCredits": "Placeholder photographs: Unsplash"
+  },
+  "legal": {
+    "updated": "Last updated: {date}",
+    "notice": {
+      "title": "Legal notice",
+      "sections": [
+        {
+          "h": "Identification details",
+          "p": [
+            "In compliance with Spanish Law 34/2002 on Information Society Services and Electronic Commerce (LSSI-CE), you are informed that this website is owned by {owner}, with tax ID (NIF) {taxId} and address at {address}. {registry}. Contact email: {email}. Phone: {phone}."
+          ]
+        },
+        {
+          "h": "Purpose and terms of use",
+          "p": [
+            "The purpose of this website is to provide information about the renovation services offered by the owner and to make it easy for interested parties to get in touch. Access is free of charge and implies acceptance of this legal notice.",
+            "Users undertake to make appropriate use of the content and not to use it for unlawful activities or activities contrary to good faith."
+          ]
+        },
+        {
+          "h": "Intellectual and industrial property",
+          "p": [
+            "The texts, logos, design and other content of this website are the property of the owner or of third parties who have authorised their use. Their reproduction, distribution or transformation without express authorisation is prohibited."
+          ]
+        },
+        {
+          "h": "Liability",
+          "p": [
+            "The owner accepts no liability for damage arising from the use of the website or for any errors in its content, and reserves the right to modify it without prior notice. Links to third-party sites are provided for information purposes only."
+          ]
+        },
+        {
+          "h": "Cookies",
+          "p": [
+            "This website only uses technical cookies that are essential for it to work (for example, to remember the chosen language), which are exempt from the consent requirement. No analytics or advertising cookies are used."
+          ]
+        },
+        {
+          "h": "Applicable law",
+          "p": [
+            "This legal notice is governed by Spanish law. For any dispute, the parties shall submit to the courts and tribunals with jurisdiction under the regulations in force."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Privacy policy",
+      "sections": [
+        {
+          "h": "Data controller",
+          "p": [
+            "{owner}, with tax ID (NIF) {taxId} and address at {address}. Email: {email}. Phone: {phone}."
+          ]
+        },
+        {
+          "h": "What data we process and for what purpose",
+          "p": [
+            "We process the data you provide to us through the contact form, by phone, email or WhatsApp (name, phone number, email, municipality and project description) for the sole purpose of handling your request and preparing the quote you have asked for."
+          ]
+        },
+        {
+          "h": "Legal basis",
+          "p": [
+            "The legal basis is your consent, which you give by submitting the form (Art. 6(1)(a) GDPR), and, where applicable, the taking of pre-contractual steps at your request (Art. 6(1)(b) GDPR)."
+          ]
+        },
+        {
+          "h": "Retention",
+          "p": [
+            "We will keep your data for as long as necessary to handle your request and, thereafter, for the periods required by law. If you do not go on to hire our services, your data will be deleted within a maximum of one year."
+          ]
+        },
+        {
+          "h": "Recipients",
+          "p": [
+            "We do not disclose your data to third parties unless legally required to do so. To provide the service, we use providers who act as data processors: web hosting (Vercel Inc.) and email delivery (Resend). These providers may process data outside the European Economic Area, with the appropriate safeguards provided for in the GDPR (EU-US Data Privacy Framework or standard contractual clauses)."
+          ]
+        },
+        {
+          "h": "Your rights",
+          "p": [
+            "You can exercise your rights of access, rectification, erasure, objection, restriction of processing and portability, and withdraw your consent at any time, by writing to {email} and stating the right you wish to exercise.",
+            "If you believe we have not processed your data correctly, you can lodge a complaint with the Spanish Data Protection Agency (AEPD) (www.aepd.es)."
+          ]
+        }
+      ]
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has been moved."
+  }
+}
