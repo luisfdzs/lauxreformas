@@ -1,4 +1,4 @@
-import { Bath, BrickWall, CookingPot, House, Layers, PaintRoller } from "lucide-react";
+import { Bath, BrickWall, CookingPot, Grid2x2, House, Layers, PaintRoller, Wrench, Zap } from "lucide-react";
 import type { Service } from "@/content/services";
 
 const icons = {
@@ -8,6 +8,9 @@ const icons = {
   drywall: Layers,
   paint: PaintRoller,
   roof: House,
+  plumbing: Wrench,
+  electrical: Zap,
+  windows: Grid2x2,
 } as const;
 
 export default function ServiceIcon({ icon, className }: { icon: Service["icon"]; className?: string }) {

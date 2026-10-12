@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "LAUX Reformas | Reformas integrales en Salvatierra de Miño y alrededores",
-    "description": "Empresa de reformas en Salvatierra de Miño (Pontevedra): reformas integrales, baños, cocinas, pladur, pintura, tejados y fachadas. Pide tu presupuesto sin compromiso.",
+    "description": "Empresa de reformas en Salvatierra de Miño (Pontevedra): reformas integrales, baños, cocinas, pladur, pintura, tejados y fachadas, fontanería, electricidad y ventanas. Pide tu presupuesto sin compromiso.",
     "locale": "es_ES"
   },
   "nav": {
@@ -151,6 +151,60 @@
           "Rehabilitación de fachadas",
           "Aislamiento térmico exterior (SATE)"
         ]
+      },
+      "fontaneria": {
+        "name": "Fontanería",
+        "short": "Instalaciones y reparaciones de fontanería, rápidas y sin sorpresas.",
+        "metaDescription": "Fontaneros en Salvatierra de Miño, Ponteareas y Tui: instalaciones de agua, desagües, reparación de fugas y cambio de tuberías.",
+        "intro": "Renovamos y reparamos las instalaciones de agua de tu vivienda para que funcionen bien durante muchos años.",
+        "body": [
+          "Desde una fuga o un grifo que gotea hasta la renovación completa de tuberías, localizamos el problema y te proponemos la solución más duradera.",
+          "Trabajamos con materiales actuales como el multicapa y el PEX, y coordinamos la fontanería con el resto de la obra cuando forma parte de una reforma."
+        ],
+        "includes": [
+          "Instalaciones de agua fría y caliente",
+          "Desagües y saneamiento",
+          "Detección y reparación de fugas",
+          "Sustitución de tuberías antiguas",
+          "Montaje de sanitarios y grifería",
+          "Termos y calentadores"
+        ]
+      },
+      "electricidad": {
+        "name": "Electricidad",
+        "short": "Instalaciones eléctricas seguras, actualizadas y eficientes.",
+        "metaDescription": "Electricistas en Salvatierra de Miño y alrededores: instalaciones eléctricas, renovación de cuadros, iluminación LED y puntos de recarga.",
+        "intro": "Adaptamos la instalación eléctrica de tu vivienda o local a tus necesidades actuales, con seguridad y eficiencia.",
+        "body": [
+          "Muchas viviendas mantienen instalaciones antiguas que ya no soportan los electrodomésticos actuales. Las renovamos por completo o por zonas, con cableado, protecciones y mecanismos nuevos.",
+          "También mejoramos la iluminación con soluciones LED que reducen el consumo y dan a cada estancia el ambiente que buscas."
+        ],
+        "includes": [
+          "Instalaciones eléctricas nuevas y renovaciones",
+          "Cuadros eléctricos y protecciones",
+          "Puntos de luz, enchufes y mecanismos",
+          "Iluminación LED interior y exterior",
+          "Puntos de recarga para vehículo eléctrico",
+          "Localización y reparación de averías"
+        ]
+      },
+      "ventanas-pvc-aluminio": {
+        "name": "Ventanas de PVC y aluminio",
+        "short": "Ventanas que aíslan del frío, del ruido y de la humedad.",
+        "metaDescription": "Ventanas de PVC y aluminio en Salvatierra de Miño, Ponteareas y Tui: sustitución de ventanas, rotura de puente térmico, doble acristalamiento y persianas.",
+        "intro": "Cambiamos tus ventanas por otras de PVC o aluminio que mejoran el aislamiento y el confort de tu casa.",
+        "body": [
+          "Unas buenas ventanas marcan la diferencia en el clima de Galicia: evitan filtraciones, condensaciones y pérdidas de calor, y reducen el ruido exterior.",
+          "Te asesoramos sobre material, sistema de apertura, acristalamiento y color, tomamos medidas en tu casa y nos encargamos de la retirada de las antiguas y de la instalación."
+        ],
+        "includes": [
+          "Ventanas y balconeras de PVC",
+          "Ventanas de aluminio con rotura de puente térmico",
+          "Doble acristalamiento y vidrios bajo emisivos",
+          "Persianas y cajones de persiana aislados",
+          "Puertas de entrada y cerramientos",
+          "Retirada de ventanas antiguas y remates"
+        ]
       }
     }
   },
@@ -190,7 +244,7 @@
     "eyebrow": "¿Tienes un proyecto?",
     "title": "Hablemos de tu reforma",
     "text": "Cuéntanos tu idea y te enviaremos un presupuesto sin compromiso.",
-    "area": "Salvatierra de Miño y alrededores"
+    "area": "Vigo y alrededores"
   },
   "zones": {
     "eyebrow": "Zonas",

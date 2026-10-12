@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "LAUX Reformas | Complete home renovations in Salvaterra de Miño and the surrounding area",
-    "description": "Renovation company in Salvaterra de Miño (Pontevedra): complete renovations, bathrooms, kitchens, drywall/plasterboard, painting, roofs and façades. Request your no-obligation quote.",
+    "description": "Renovation company in Salvaterra de Miño (Pontevedra): complete renovations, bathrooms, kitchens, drywall/plasterboard, painting, roofs and façades, plumbing, electrics and windows. Request your no-obligation quote.",
     "locale": "en_GB"
   },
   "nav": {
@@ -151,6 +151,60 @@
           "Façade refurbishment",
           "External thermal insulation (ETICS)"
         ]
+      },
+      "fontaneria": {
+        "name": "Plumbing",
+        "short": "Plumbing installations and repairs, done quickly and with no surprises.",
+        "metaDescription": "Plumbers in Salvaterra de Miño, Ponteareas and Tui: water installations, drainage, leak repairs and pipe replacement.",
+        "intro": "We renew and repair the water installations in your home so they work properly for many years.",
+        "body": [
+          "From a leak or a dripping tap to replacing all the pipework, we find the problem and propose the longest-lasting solution.",
+          "We work with modern materials such as multilayer and PEX pipe, and coordinate the plumbing with the rest of the work when it is part of a renovation."
+        ],
+        "includes": [
+          "Hot and cold water installations",
+          "Drainage and waste pipes",
+          "Leak detection and repair",
+          "Replacement of old pipework",
+          "Fitting of sanitaryware and taps",
+          "Water heaters and boilers"
+        ]
+      },
+      "electricidad": {
+        "name": "Electrics",
+        "short": "Safe, up-to-date and efficient electrical installations.",
+        "metaDescription": "Electricians in Salvaterra de Miño and the surrounding area: electrical installations, consumer unit upgrades, LED lighting and EV charging points.",
+        "intro": "We adapt the electrical installation of your home or premises to your current needs, safely and efficiently.",
+        "body": [
+          "Many homes still have old installations that can no longer cope with modern appliances. We rewire them completely or room by room, with new cabling, protection devices and fittings.",
+          "We also improve lighting with LED solutions that cut consumption and give each room the atmosphere you want."
+        ],
+        "includes": [
+          "New electrical installations and rewiring",
+          "Consumer units and protection devices",
+          "Light points, sockets and switches",
+          "Indoor and outdoor LED lighting",
+          "Electric vehicle charging points",
+          "Fault finding and repair"
+        ]
+      },
+      "ventanas-pvc-aluminio": {
+        "name": "PVC and aluminium windows",
+        "short": "Windows that keep out the cold, noise and damp.",
+        "metaDescription": "PVC and aluminium windows in Salvaterra de Miño, Ponteareas and Tui: window replacement, thermal break frames, double glazing and shutters.",
+        "intro": "We replace your windows with PVC or aluminium ones that improve the insulation and comfort of your home.",
+        "body": [
+          "Good windows make all the difference in the Galician climate: they prevent leaks, condensation and heat loss, and reduce outside noise.",
+          "We advise you on material, opening system, glazing and colour, take measurements at your home and handle the removal of the old windows and the installation."
+        ],
+        "includes": [
+          "PVC windows and balcony doors",
+          "Thermal break aluminium windows",
+          "Double glazing and low-emissivity glass",
+          "Roller shutters and insulated shutter boxes",
+          "Entrance doors and enclosures",
+          "Removal of old windows and finishing"
+        ]
       }
     }
   },
@@ -190,7 +244,7 @@
     "eyebrow": "Have a project in mind?",
     "title": "Let's talk about your renovation",
     "text": "Tell us your idea and we will send you a no-obligation quote.",
-    "area": "Salvaterra de Miño and the surrounding area"
+    "area": "Vigo and the surrounding area"
   },
   "zones": {
     "eyebrow": "Areas",

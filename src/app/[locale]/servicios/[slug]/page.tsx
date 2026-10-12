@@ -107,26 +107,26 @@ export default async function ServicePage({ params }: { params: Params }) {
                 </ButtonA>
               </div>
             </div>
-
-            <div>
-              <h2 className="eyebrow">{t("services.otherServices")}</h2>
-              <ul className="mt-4 divide-y divide-line border-y border-line">
-                {services
-                  .filter((s) => s.slug !== service.slug)
-                  .map((s) => (
-                    <li key={s.slug}>
-                      <Link
-                        href={`/servicios/${s.slug}`}
-                        className="flex items-center gap-3 py-3 text-sm font-medium hover:text-gold-600"
-                      >
-                        <ServiceIcon icon={s.icon} className="size-5 text-gold" />
-                        {t(`services.items.${s.slug}.name`)}
-                      </Link>
-                    </li>
-                  ))}
-              </ul>
-            </div>
           </aside>
+        </div>
+
+        <div className="container-x mt-16">
+          <h2 className="eyebrow text-center">{t("services.otherServices")}</h2>
+          <ul className="mt-4 grid border-t border-line sm:grid-cols-2 sm:gap-x-8 lg:grid-cols-4">
+            {services
+              .filter((s) => s.slug !== service.slug)
+              .map((s) => (
+                <li key={s.slug} className="border-b border-line">
+                  <Link
+                    href={`/servicios/${s.slug}`}
+                    className="flex items-center gap-3 py-3 text-sm font-medium hover:text-gold-600"
+                  >
+                    <ServiceIcon icon={s.icon} className="size-5 text-gold" />
+                    {t(`services.items.${s.slug}.name`)}
+                  </Link>
+                </li>
+              ))}
+          </ul>
         </div>
       </section>
 

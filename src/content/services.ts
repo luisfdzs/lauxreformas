@@ -5,6 +5,9 @@ export const services = [
   { slug: "pladur", icon: "drywall", image: "/images/services/pladur.jpg" },
   { slug: "pintura", icon: "paint", image: "/images/services/pintura.jpg" },
   { slug: "tejados-y-fachadas", icon: "roof", image: "/images/services/tejados-fachadas.jpg" },
+  { slug: "fontaneria", icon: "plumbing", image: "/images/services/fontaneria.jpg" },
+  { slug: "electricidad", icon: "electrical", image: "/images/services/electricidad.jpg" },
+  { slug: "ventanas-pvc-aluminio", icon: "windows", image: "/images/services/ventanas.jpg" },
 ] as const;
 
 export type Service = (typeof services)[number];

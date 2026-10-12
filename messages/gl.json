@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "LAUX Reformas | Reformas integrais en Salvaterra de Miño e arredores",
-    "description": "Empresa de reformas en Salvaterra de Miño (Pontevedra): reformas integrais, baños, cociñas, pladur, pintura, tellados e fachadas. Pide o teu orzamento sen compromiso.",
+    "description": "Empresa de reformas en Salvaterra de Miño (Pontevedra): reformas integrais, baños, cociñas, pladur, pintura, tellados e fachadas, fontanería, electricidade e fiestras. Pide o teu orzamento sen compromiso.",
     "locale": "gl_ES"
   },
   "nav": {
@@ -151,6 +151,60 @@
           "Rehabilitación de fachadas",
           "Illamento térmico exterior (SATE)"
         ]
+      },
+      "fontaneria": {
+        "name": "Fontanería",
+        "short": "Instalacións e reparacións de fontanería, rápidas e sen sorpresas.",
+        "metaDescription": "Fontaneiros en Salvaterra de Miño, Ponteareas e Tui: instalacións de auga, desaugadoiros, reparación de fugas e cambio de tubaxes.",
+        "intro": "Renovamos e reparamos as instalacións de auga da túa vivenda para que funcionen ben durante moitos anos.",
+        "body": [
+          "Desde unha fuga ou unha billa que pinga ata a renovación completa de tubaxes, localizamos o problema e propoñémosche a solución máis duradeira.",
+          "Traballamos con materiais actuais como o multicapa e o PEX, e coordinamos a fontanería co resto da obra cando forma parte dunha reforma."
+        ],
+        "includes": [
+          "Instalacións de auga fría e quente",
+          "Desaugadoiros e saneamento",
+          "Detección e reparación de fugas",
+          "Substitución de tubaxes antigas",
+          "Montaxe de sanitarios e billas",
+          "Termos e quentadores"
+        ]
+      },
+      "electricidad": {
+        "name": "Electricidade",
+        "short": "Instalacións eléctricas seguras, actualizadas e eficientes.",
+        "metaDescription": "Electricistas en Salvaterra de Miño e arredores: instalacións eléctricas, renovación de cadros, iluminación LED e puntos de recarga.",
+        "intro": "Adaptamos a instalación eléctrica da túa vivenda ou local ás túas necesidades actuais, con seguridade e eficiencia.",
+        "body": [
+          "Moitas vivendas manteñen instalacións antigas que xa non soportan os electrodomésticos actuais. Renovámolas por completo ou por zonas, con cableado, proteccións e mecanismos novos.",
+          "Tamén melloramos a iluminación con solucións LED que reducen o consumo e dan a cada estancia o ambiente que buscas."
+        ],
+        "includes": [
+          "Instalacións eléctricas novas e renovacións",
+          "Cadros eléctricos e proteccións",
+          "Puntos de luz, enchufes e mecanismos",
+          "Iluminación LED interior e exterior",
+          "Puntos de recarga para vehículo eléctrico",
+          "Localización e reparación de avarías"
+        ]
+      },
+      "ventanas-pvc-aluminio": {
+        "name": "Fiestras de PVC e aluminio",
+        "short": "Fiestras que illan do frío, do ruído e da humidade.",
+        "metaDescription": "Fiestras de PVC e aluminio en Salvaterra de Miño, Ponteareas e Tui: substitución de fiestras, rotura de ponte térmica, dobre vidro e persianas.",
+        "intro": "Cambiamos as túas fiestras por outras de PVC ou aluminio que melloran o illamento e o confort da túa casa.",
+        "body": [
+          "Unhas boas fiestras marcan a diferenza no clima de Galicia: evitan filtracións, condensacións e perdas de calor, e reducen o ruído exterior.",
+          "Asesorámoste sobre material, sistema de apertura, vidro e cor, tomamos medidas na túa casa e encargámonos da retirada das antigas e da instalación."
+        ],
+        "includes": [
+          "Fiestras e balconeiras de PVC",
+          "Fiestras de aluminio con rotura de ponte térmica",
+          "Dobre vidro e vidros baixo emisivos",
+          "Persianas e caixóns de persiana illados",
+          "Portas de entrada e pechamentos",
+          "Retirada de fiestras antigas e remates"
+        ]
       }
     }
   },
@@ -190,7 +244,7 @@
     "eyebrow": "Tes un proxecto?",
     "title": "Falemos da túa reforma",
     "text": "Cóntanos a túa idea e enviarémosche un orzamento sen compromiso.",
-    "area": "Salvaterra de Miño e arredores"
+    "area": "Vigo e arredores"
   },
   "zones": {
     "eyebrow": "Zonas",

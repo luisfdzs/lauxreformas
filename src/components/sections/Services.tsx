@@ -10,12 +10,12 @@ export default async function Services() {
     <section id="servicios" className="bg-paper py-16 sm:py-20">
       <div className="container-x">
         <SectionTitle eyebrow={t("eyebrow")} title={t("title")} />
-        <ul className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6">
+        <ul className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {services.map((s) => (
             <li key={s.slug}>
               <Link
                 href={`/servicios/${s.slug}`}
-                className="group flex h-full flex-col items-center border border-line bg-white px-5 py-8 xl:px-3 text-center transition hover:-translate-y-1 hover:border-gold hover:shadow-lg"
+                className="group flex h-full flex-col items-center border border-line bg-white px-5 py-8 text-center transition hover:-translate-y-1 hover:border-gold hover:shadow-lg"
               >
                 <ServiceIcon icon={s.icon} className="size-11 text-gold" />
                 <h3 className="mt-5 text-base font-semibold text-ink group-hover:text-gold-600">
