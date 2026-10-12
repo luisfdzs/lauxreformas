@@ -20,10 +20,7 @@ export const site = {
 
   // Titular de la web (aviso legal / privacidad)
   legal: {
-    owner: "[NOMBRE O RAZÓN SOCIAL DEL TITULAR]",
-    taxId: "[NIF/CIF]",
-    address: "[DIRECCIÓN POSTAL COMPLETA]",
-    registry: "[DATOS REGISTRALES, si es sociedad]",
+    owner: "Laux Reformas",
   },
 } as const;
 

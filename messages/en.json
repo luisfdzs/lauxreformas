@@ -299,7 +299,7 @@
         {
           "h": "Identification details",
           "p": [
-            "In compliance with Spanish Law 34/2002 on Information Society Services and Electronic Commerce (LSSI-CE), you are informed that this website is owned by {owner}, with tax ID (NIF) {taxId} and address at {address}. {registry}. Contact email: {email}. Phone: {phone}."
+            "In compliance with Spanish Law 34/2002 on Information Society Services and Electronic Commerce (LSSI-CE), you are informed that this website is owned by {owner}. Contact email: {email}. Phone: {phone}."
           ]
         },
         {
@@ -341,7 +341,7 @@
         {
           "h": "Data controller",
           "p": [
-            "{owner}, with tax ID (NIF) {taxId} and address at {address}. Email: {email}. Phone: {phone}."
+            "{owner}. Email: {email}. Phone: {phone}."
           ]
         },
         {

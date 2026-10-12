@@ -299,7 +299,7 @@
         {
           "h": "Datos identificativos",
           "p": [
-            "En cumprimento da Lei 34/2002, de servizos da sociedade da información e de comercio electrónico (LSSI-CE), infórmase de que este sitio web é titularidade de {owner}, con NIF {taxId} e domicilio en {address}. {registry}. Correo electrónico de contacto: {email}. Teléfono: {phone}."
+            "En cumprimento da Lei 34/2002, de servizos da sociedade da información e de comercio electrónico (LSSI-CE), infórmase de que este sitio web é titularidade de {owner}. Correo electrónico de contacto: {email}. Teléfono: {phone}."
           ]
         },
         {
@@ -341,7 +341,7 @@
         {
           "h": "Responsable do tratamento",
           "p": [
-            "{owner}, con NIF {taxId} e domicilio en {address}. Correo electrónico: {email}. Teléfono: {phone}."
+            "{owner}. Correo electrónico: {email}. Teléfono: {phone}."
           ]
         },
         {

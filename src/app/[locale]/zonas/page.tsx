@@ -35,7 +35,7 @@ export default async function ZonesPage({ params }: { params: Params }) {
               {zones.map((z) => (
                 <li
                   key={z}
-                  className="inline-flex items-center gap-1.5 border border-line bg-white px-3 py-2 text-sm"
+                  className="inline-flex items-center gap-1.5 border border-line bg-white px-3 py-2 text-sm transition hover:-translate-y-1 hover:border-gold hover:text-gold-600 hover:shadow-lg"
                 >
                   <MapPin className="size-3.5 text-gold" aria-hidden="true" />
                   {z}

@@ -12,9 +12,6 @@ export default async function LegalPage({ doc, locale }: { doc: "notice" | "priv
 
   const values: Record<string, string> = {
     owner: site.legal.owner,
-    taxId: site.legal.taxId,
-    address: site.legal.address,
-    registry: site.legal.registry,
     email: site.email,
     phone: site.phone,
   };
